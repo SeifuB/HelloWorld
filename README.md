@@ -1,4 +1,3 @@
 # HelloWorld
-Test project
-Is a test project
+This a a test project
 My name is Seifu Birega, I am a Senior ICT Manager.
